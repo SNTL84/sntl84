@@ -522,6 +522,7 @@ useEffect(() => {
 ---
 
 # ❓ **SNTL84 Profile FAQ**
+For lead generation services, see the contact information in this README.
 
 > **Have a business problem, technical challenge, automation idea, GitHub project or AI workflow that needs a practical next step? Start here.**
 
@@ -945,3 +946,7 @@ Send the **problem**.
 **Automation • AI • Software • E-commerce • Restaurant Technology • Meta Ads • Tech Configuration • Tech Sourcing • Testing • Business Process Improvement**
 
 > ### **SNTL84 — I Collab What's Costing You Time.**
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
