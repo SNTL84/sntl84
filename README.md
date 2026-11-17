@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/Top-Down_Denim_Noir_Portrait.png" alt="Milan (SNTL 84) — Top-Down Denim Noir Portrait" width="600" />
+</div>
+
 ---
 
 <div align="center">
